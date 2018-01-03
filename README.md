@@ -3,7 +3,7 @@
 PowerShell Empire mod to post-exploit the World! Linux, MacOS, Windows.
 
        ====================================================================================
-        Empire: PowerShell post-exploitation agent | [Version]: 2.0 Mod: HackPlayers 
+        Empire: PowerShell post-exploitation agent | [Version]: 2.3 Mod: HackPlayers 
        ====================================================================================
         [Web]: https://www.PowerShellEmpire.com/ | [Twitter]: @harmj0y, @sixdub, @enigma0x3
        ====================================================================================
@@ -22,7 +22,7 @@ PowerShell Empire mod to post-exploit the World! Linux, MacOS, Windows.
        |_______||__|  |__| | _|      |__| | _| `._____||_______|  Mod: HackPlayers
        
        
-       282 modules currently loaded
+       288 modules currently loaded
        
        0 listeners currently active
        
@@ -53,6 +53,8 @@ PowerShell Empire mod to post-exploit the World! Linux, MacOS, Windows.
 &nbsp;&nbsp;&nbsp;**StarFighters JS**&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;**StarFighters VBS**&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;**StarFighters JS SCT**&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;**ASPX File**&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;**PHP File**&nbsp;&nbsp; 
 
 # Install in Debian
 
