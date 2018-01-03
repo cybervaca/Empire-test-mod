@@ -52,7 +52,7 @@ PowerShell Empire mod to post-exploit the World! Linux, MacOS, Windows.
 # Stagers added
 &nbsp;&nbsp;&nbsp;**StarFighters JS**&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;**StarFighters VBS**&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;**StarFighters JS SCT**&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;**StarFighters JS SCT**&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;**ASPX File**&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;**PHP File**&nbsp;&nbsp;  
 
