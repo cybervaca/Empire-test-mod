@@ -32,12 +32,18 @@ def title(version):
     print " [Version] %s | [Web] https://github.com/empireProject/Empire" % (version)
     print '================================================================'
     print """
-   _______ .___  ___. .______    __  .______       _______
-  |   ____||   \/   | |   _  \  |  | |   _  \     |   ____|
-  |  |__   |  \  /  | |  |_)  | |  | |  |_)  |    |  |__
-  |   __|  |  |\/|  | |   ___/  |  | |      /     |   __|
-  |  |____ |  |  |  | |  |      |  | |  |\  \----.|  |____
-  |_______||__|  |__| | _|      |__| | _| `._____||_______|
+ __    __       ___       ______  __  ___                
+|  |  |  |     /   \     /      ||  |/  /                
+|  |__|  |    /  ^  \   |  ,----'|  '  /                 
+|   __   |   /  /_\  \  |  |     |    <                  
+|  |  |  |  /  _____  \ |  `----.|  .  \                 
+|__|  |__| /__/     \__\ \______||__|\__\                
+ _______ .___  ___. .______    __  .______       _______ 
+|   ____||   \/   | |   _  \  |  | |   _  \     |   ____|
+|  |__   |  \  /  | |  |_)  | |  | |  |_)  |    |  |__   
+|   __|  |  |\/|  | |   ___/  |  | |      /     |   __|  
+|  |____ |  |  |  | |  |      |  | |  |\  \----.|  |____ 
+|_______||__|  |__| | _|      |__| | _| `._____||_______|  Mod: HackPlayers
 
 """
 
@@ -47,47 +53,10 @@ def loading():
     """
 
     print """
-                              `````````
-                         ``````.--::///+
-                     ````-+sydmmmNNNNNNN
-                   ``./ymmNNNNNNNNNNNNNN
-                 ``-ymmNNNNNNNNNNNNNNNNN
-               ```ommmmNNNNNNNNNNNNNNNNN
-              ``.ydmNNNNNNNNNNNNNNNNNNNN
-             ```odmmNNNNNNNNNNNNNNNNNNNN
-            ```/hmmmNNNNNNNNNNNNNNNNMNNN
-           ````+hmmmNNNNNNNNNNNNNNNNNMMN
-          ````..ymmmNNNNNNNNNNNNNNNNNNNN
-          ````:.+so+//:---.......----::-
-         `````.`````````....----:///++++
-        ``````.-/osy+////:::---...-dNNNN
-        ````:sdyyydy`         ```:mNNNNM
-       ````-hmmdhdmm:`      ``.+hNNNNNNM
-       ```.odNNmdmmNNo````.:+yNNNNNNNNNN
-       ```-sNNNmdh/dNNhhdNNNNNNNNNNNNNNN
-       ```-hNNNmNo::mNNNNNNNNNNNNNNNNNNN
-       ```-hNNmdNo--/dNNNNNNNNNNNNNNNNNN
-      ````:dNmmdmd-:+NNNNNNNNNNNNNNNNNNm
-      ```/hNNmmddmd+mNNNNNNNNNNNNNNds++o
-     ``/dNNNNNmmmmmmmNNNNNNNNNNNmdoosydd
-     `sNNNNdyydNNNNmmmmmmNNNNNmyoymNNNNN
-     :NNmmmdso++dNNNNmmNNNNNdhymNNNNNNNN
-     -NmdmmNNdsyohNNNNmmNNNNNNNNNNNNNNNN
-     `sdhmmNNNNdyhdNNNNNNNNNNNNNNNNNNNNN
-       /yhmNNmmNNNNNNNNNNNNNNNNNNNNNNmhh
-        `+yhmmNNNNNNNNNNNNNNNNNNNNNNmh+:
-          `./dmmmmNNNNNNNNNNNNNNNNmmd.
-            `ommmmmNNNNNNNmNmNNNNmmd:
-             :dmmmmNNNNNmh../oyhhhy:
-             `sdmmmmNNNmmh/++-.+oh.
-              `/dmmmmmmmmdo-:/ossd:
-                `/ohhdmmmmmmdddddmh/
-                   `-/osyhdddddhyo:
-                        ``.----.`
-
-                Welcome to the Empire"""
-    time.sleep(3)
+"""
+    time.sleep(2)
     os.system('clear')
+
 
 
 def wrap_string(data, width=40, indent=32, indentAll=False, followingHeader=None):
