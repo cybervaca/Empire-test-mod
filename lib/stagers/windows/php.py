@@ -9,7 +9,7 @@ class Stager:
 
             'Author': ['Luis Vacas @CyberVaca'],
 
-            'Description': ('Generates a self-deleting .aspx launcher for Empire.'),
+            'Description': ('Generates a self-deleting .php launcher for Empire.'),
 
             'Comments': [
                 ''
