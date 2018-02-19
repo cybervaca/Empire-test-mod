@@ -58,7 +58,7 @@ PowerShell Empire mod to post-exploit the World! Linux, MacOS, Windows.
 
 # Install in Debian
 
-    git clone https://github.com/hackplayers/Empire-mod-Hpys-tests.git
+    git clone https://github.com/cybervaca/Empire-test-mod
     cd empire-mod-hackplayers/setup/
     sudo apt-get update > /dev/null
     ./install.sh
